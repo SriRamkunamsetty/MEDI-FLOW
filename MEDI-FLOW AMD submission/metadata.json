@@ -1,0 +1,6 @@
+{
+  "name": "MEDI FLOW",
+  "description": "AI-Powered Blood & Organ Emergency Response Network for hospitals, blood banks, donors, and health departments.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
